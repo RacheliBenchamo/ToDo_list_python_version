@@ -1,3 +1,0 @@
-import ToDoList
-
-ToDoList.ToDoList()
